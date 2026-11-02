@@ -1,4 +1,4 @@
-# 🌱 Smart Agriculture Assistant
+# 🌱 Smart Agriculture Assistant | [ArtiFact](https://smart-agriculture-assistant.github.io/project-docs/)
 
 ### Intelligent Farming. Smarter Decisions. Better Growth.
 
